@@ -1,0 +1,174 @@
+# **Internet**
+
+
+
+The internet is a global network of interconnected computers using TCP/IP protocols. Request travel through ISPs to DNS Servers for domain-to-ip translation, then route across networks via routers to destination servers. 
+
+Enables Dynamic, decentralized global communication.
+
+
+
+
+
+##### **How does the Internet Work?**
+
+
+
+Introduction to the Internet
+
+Is a group of Computers or other devices whitch are connected to eachother.
+
+
+
+##### **An Overview:**
+
+
+
+At a high level, the internet works by connecting devices and computer systems together using a set of standardized protocols.
+
+The core of the internet is a global network of interconnected routers, which are responsible for directing traffic between different devices and systems.
+
+
+
+**IP -  Internet Protocol – is responsible for routing packets to their correct destination**
+
+**TCP – Transmission Control Protocol – is responsible for transmission in the correct order.**
+
+**DNS – Domain Name Syteam**
+
+**HTTP – Hypertext Transfer Protocol**
+
+**(SSL/TLS) - Secure Sockets Layer/Transport Layer Security**
+
+
+
+##### **Basic Concepts and Terminology**
+
+
+
+•	Packet: A small unit of data that is transmitted over the internet.
+
+•	Router: A device that directs packets of data between different networks.
+
+•	IP Address: A unique identifier assigned to each device on a network, used to route data to the correct destination.
+
+•	Domain Name: a Human-readable name that is used to identify a website, such as google.com.
+
+•	DNS: the Domain Name System is responsible for translating domain names into IP Address.
+
+•	HTTP: The Hypertext Transfer Protocol is used to transfer data between a client (such as a web browser) and a server (such as a website).
+
+•	HTTPS: An encrypted version of HTTP that is used to provide secure communication between a client and server.
+
+•	SSL/TLS: The Secure Sockets Layer and Transport Layer Security protocols are used to provide secure communication over the internet.
+
+
+
+
+
+#### **The Role of Protocols in Internet**
+
+
+
+&nbsp;One of the key benefits of using standardized protocols is that they allow devices and systems from different manufacturers and vendors to communicate witch each other seamlessly. For example, a web browser developed by one company can communicate witch a web server developed by another company, as long as they both adhere to HTTP protocol.
+
+
+
+
+
+##### **Understanding IP Addresses and Domain Names**
+
+
+
+IP addresses are typically represented as a series of four numbers separated by periods, such as “192.168.1.1”.
+
+They’re typically composed of two or more parts, separated by periods. For example, “google.com” is a domain name.
+
+DNS is a critical part of the internet infrastructure, responsible for translating domain names into IP addresses.
+
+
+
+
+
+##### **Introduction to HTTP and HTTPS**
+
+
+
+HTTPS – is the protocol used to transfer data between a client (such as a web browser)
+
+HTTPS – is mor secure version of HTTP, wich encrypts the data being transmitted between the client and server using SSL/TLS
+
+
+
+
+
+##### **Building Applications with TCP/IP**
+
+
+
+When building applications with TCP/IP, there are a few key concepts to understand:
+
+•	Ports: Ports are used to identify the application or service running on a device. Each application or service is assigned a unique port number, allowing data to pe send to correct destination.
+
+•	Sockets: a socket is a combination of an IP address and a port number, representing a specific endpoint for communication. Sockets are used to establish connection between devices and transfer data between applications.
+
+•	Connections: A connection is established between two sockets when two devices want to communicate with each other. During, the connection establishes process, the devices negotiate various parameter such as the maximum segment size and window size, which determine how data will be transmitted over the connection.
+
+•	Data transfer: Once a connection is established, data can be transferred between  the application running on each device. Data is typically transmitted in segments, with each segment containing a sequence number and other metadata to ensure reliable delivery
+
+
+
+
+
+##### **Securing Internet Communication with SSL/TLS**
+
+
+
+Certificates: used to establish trust between the client and server.
+
+Handshake: the client and server exchange information to negotiate the encryption algorithm and other parameters for the secure connection.
+
+Encryption:  Once the secure connection is established, data is encrypted using the agreed-upon algorithm.
+
+
+
+
+
+##### **The Future: Emerging Trends and Technologies**
+
+
+
+5G
+
+Internet of Things (IoT)
+
+Artificial Intelligence (AI)
+
+Blockchain
+
+
+
+##### 
+
+##### **Conclusion**
+
+
+
+And that brings us to the end of this article. We’ve covered a lot of ground, so let’s take a moment to review what we’ve learned:
+
+•	The internet is a global network of interconnected computers that uses a standard set of communication protocols to exchange data.
+
+•	The internet works by connecting devices and computer systems together using standardized protocols, such as IP and TCP.
+
+•	The core of the internet is a global network of interconnected routers that direct traffic between different devices and systems.
+
+•	Basic concepts and terminology that you need to familiarize yourself with include packets, routers, IP addresses, domain names, DNS, HTTP, HTTPS, and SSL/TLS.
+
+•	Protocols play a critical role in enabling communication and data exchange over the internet, allowing devices and systems from different manufacturers and vendors to communicate seamlessly.
+
+
+
+
+
+
+
