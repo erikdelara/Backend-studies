@@ -1,0 +1,28 @@
+Resume – How does the internt work? (full course free CodeCamp.org)
+
+
+(0:00:00) Intro
+The course introduces the goal: explaining how devices connect and communicate over the internet, step by step.
+
+(0:01:55) What is a Switch and why do we need it?
+A switch connects multiple devices in a local network (LAN). It forwards data to the correct device using MAC address, reducing collisions and improving efficiency compared to hub.
+
+(0:13:16) What is a Router?
+A router connects different networks together (LAN to WAN/Internet). It uses IP addresses to forward data packets to their destination, unlike switches that rely only on MAC addresses
+
+(0:19:43) What does the internet represent?
+The internet is a global network of networks. Each device doesn’t connect directly to every other device but instead communicates through interconnected routers.
+
+Explains how routing tables and paths determine the journey of packets across multiple networks.
+
+Discusses how data is broken into packets, transmitted, and then reassembled at the destination, ensuring reliability and efficiency.
+
+(0:55:10) Wide Area Network (WAN)
+WANs are larger networks that connect multiple LANs across cities, countries, or globally. The internet itself is the biggest WAN.
+
+Goes deeper into how routers choose the best path, use NAT (Network Address Translation), and manage data between private and public networks.
+
+(1:17:26) Internet Service Provider (ISP) (Part-1)
+Explains the role of ISPs as gateways to the Internet. They provide IP addresses and maintain the infrastructure that connects households and businesses to the global network.
+
+Details how ISPs interconnect, form peering agreements, and manage traffic between different networks to ensure global connectivity.
