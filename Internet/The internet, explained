@@ -1,0 +1,37 @@
+The internet, explained
+
+
+Where is the internet?
+
+
+The internet has three basic parts:
+The last mile: is the part of the internet that connects homes and small businesses to the internet.
+The last mile also includes the towers that allow people to access the internet with their cell phones. Wireless internet service accounts for a large and growing share of all internet usage.
+
+Data centers: are rooms full of servers that store user data and host online apps and content. Some are owned by large companies such as Google and Facebook. 
+
+The backbone: consists of long-distance networks — mostly on fiber optic cables — that carry data between data centers and consumers. The backbone market is highly competitive.
+
+
+Who runs the internet?
+
+
+No one,  It’s organized as a decentralized network of networks.
+IETF -  Internet Engineering Task Force
+ICANN -  Internet Corporation for Assigned Names and Numbers
+
+
+What is IPv6?
+
+
+The current internet standard, known as IPv4, only allows for about 4 billion IP addresses. This was considered a very big number in the 1970s, but today, the supply of IPv4 addresses is nearly exhausted.
+So internet engineers have developed a new standard called IPv6. IPv6 allows for a mind-boggling number of unique addresses — the exact figure is 39 digits long — ensuring that the world will never again run out.
+What is the cloud?
+Cloud computing, witch became popular in the 200s, lets users store files and software over the internet instead of relying on local storage or manual updates. Services like Google Docs, Gmail, Dropbox and iCloud provide automatic updates, remote access, and data safety. For businesses, platforms like Amazon Web Services Make it cheaper and easier to host and scale websites by renting servers on demand.
+
+
+What is SSL?
+
+
+SSL, short for Secure Sockets Layer, is a Family of encryption technology that allows web users to protect the privacy of information they transmit over the internet.
+
