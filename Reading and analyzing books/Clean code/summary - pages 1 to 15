@@ -1,0 +1,65 @@
+Clean Code
+Good code is easy to read, understand, and maintain.
+It should be simple, direct, and clear, almost like well-written prose.
+
+
+The Code
+All software is made of code, no matter the frameworks, languages, or tools.
+Code is the foundation of everything, and there is no escaping it.
+
+
+Bad Code
+Appears when developers prioritize speed, negligence, or poorly thought-out solutions.
+“Dirty code” may work in the short term but causes huge problems later.
+
+
+The Cost of Confusing Code
+Bad code increases maintenance and development time.
+Teams spend more time understanding old code than building new features.
+This leads to delays, frustration, and wasted resources.
+
+
+The Big Redesign in the Sky
+Man companies end up discarding old systems and rewriting them from scratch due to poor quality.
+This is costly and often ineffective, as the cycle repeats if discipline is missing.
+
+
+Attitude
+Programmers must take responsibility for the code they write.
+It is the developer’s duty to fight for quality, even under external pressure (deadlines, managers, clients).
+
+
+The Grand Dilemma
+The tension between fast delivery and quality.
+However, bad code doesn’t make things faster—it slows projects down in the medium and long term.
+
+
+The Art of Clean Code
+Writing clean code is more than technique: it requires discipline, practice, and even aesthetic sense.
+Good programmers treat code as craftsmen treat their work.
+
+
+What is Clean Code?
+Clear, efficient, direct, readable, and easy to maintain.
+It hides nothing, avoids duplication, and follows best practices.
+
+
+Schools of Thought
+There are different perspectives on what defines “clean code,” but the essence is the same: clarity and simplicity.
+The author shares insights from renowned programmers to enrich the concept.
+
+
+We Are Authors
+Programming is like writing.
+Code should be written with the reader in mind (other developers, or even your future self).
+
+
+The Boy Scout Rule
+“Leave the code cleaner than you found it.”
+Small, constant improvements prevent the system from rotting over time.
+
+
+Prequel and Principles
+Before diving into techniques, one must understand the core principles:
+Simplicity, clarity, responsibility, and discipline.
+These fundamentals prepare the ground for the practices explained later in the book.
