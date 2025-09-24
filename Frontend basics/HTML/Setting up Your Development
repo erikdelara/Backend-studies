@@ -1,0 +1,29 @@
+Setting up your development environment is a crucial first step in learning HTML. A well-configured environment makes writing, testing, and debugging your code easier and more efficient. Similarly, creating your first HTML file marks the beginning of your journey into web development, allowing you to translate your ideas into tangible web pages. This lesson will guide you through setting up your environment and creating your initial HTML file.
+
+hoosing a Text Editor for HTML
+When writing HTML, using a dedicated code editor instead of basic tools like Notepad or TextEdit can greatly improve your workflow. Code editors offer features such as:
+•	Syntax Highlighting – Makes code easier to read and debug.
+•	Auto-Completion – Speeds up coding and reduces errors.
+•	Error Detection – Highlights mistakes early.
+•	Code Formatting – Keeps code clean and consistent.
+•	Tool Integration – Works with debuggers and version control systems like Git.
+
+Popular Code Editors:
+•	Visual Studio Code (VS Code) – Free, customizable, and beginner-friendly with many extensions.
+•	Sublime Text – Fast and lightweight; requires a paid license for full use.
+•	Atom – Open-source and customizable, though no longer actively developed.
+•	Notepad++ (Windows) – Lightweight with multi-language support and tabbed interface.
+•	BBEdit (macOS) – Powerful editor with strong search features; free and paid versions available.
+
+Setting Up Your Workspace
+Organizing your workspace is key to managing HTML files and related assets efficiently.
+Steps to Set Up:
+•	Choose a Location: Pick a directory for your web projects (e.g., “Web Projects” in Documents).
+•	Create a Project Folder: Make a folder for each project (e.g., “RecipeWebsite”) to keep files grouped.
+•	Use Subfolders (Optional): Organize assets with folders like images for pictures and css for stylesheets.
+Why Organization Matters:
+•	Avoids File Mix-Ups: Keeps project files separate from unrelated files.
+•	Improves Navigation: Makes it easier to find what you need.
+•	Supports Collaboration: Simplifies sharing and teamwork.
+Example:
+Working on multiple websites without folders can lead to a cluttered mess. Using structured folders like Website1/images, Website2/css, etc., keeps everything tidy and manageable.
